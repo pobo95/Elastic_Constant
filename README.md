@@ -8,6 +8,7 @@ Calculate Elastic Constant using LAMMPS
 Based by https://github.com/prnvrvs/elastic_vasp
 
 Please check
+
 Kumar, P., and Adlakha, I. (July 26, 2022). "Effect of Interstitial Hydrogen on Elastic Behavior of Metals: an Ab-Initio Study." ASME. J. Eng. Mater. Technol. doi: https://doi.org/10.1115/1.4055097
 
 and
